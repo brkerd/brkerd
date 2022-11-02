@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brkerd
 - 👀 I’m interested in many stuff
 - 📖 I'm studying Software Engineering at Atılım University
-- 🌱 I’m currently learning C and Dart
+- 🌱 I’m currently learning C++
 
 <!---
 brkerd/brkerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
